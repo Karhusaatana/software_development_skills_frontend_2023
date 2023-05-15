@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "responsive modern portfolio",
   "main": "index.js",
-  "homepage": "https://karhusaatana.github.io/software_development_skills_frontend_2023",
+  "homepage": "https://karhusaatana.github.io/modern_portfolio/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
